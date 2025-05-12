@@ -1,5 +1,23 @@
 # 💫 About Me:
-Passionné par la data, la gestion et le management, je m’intéresse particulièrement aux systèmes ERP et au développement back-end.<br>Je combine une approche analytique et technique pour concevoir des solutions efficaces qui optimisent les processus métier. Curieux et rigoureux, je cherche constamment à approfondir mes compétences en data analytics, architecture logicielle et gestion de projets, tout en contribuant à des projets innovants et collaboratifs
+🎓 Étudiant en Informatique de Gestion
+🧠 Passionné par la data, les ERP et le management 
+
+💼 Profil
+Je suis un étudiant dynamique et curieux en informatique de gestion, motivé par l’envie de comprendre et d’optimiser les processus métier à travers la technologie. Mon parcours combine des compétences solides en gestion d’entreprise et en programmation, ce qui me permet d’avoir une vision globale des systèmes d’information.
+
+📊 Centres d’intérêt professionnels :
+
+📈 Data & Analyse
+Je suis passionné par la science des données, la visualisation et l’exploitation des données pour aider à la prise de décision stratégique.
+
+🏢 ERP & Processus Métier
+Les systèmes comme SAP ou Odoo me fascinent pour leur capacité à unifier les opérations d’une entreprise. Je m'intéresse aux flux inter-modules, à l'intégration et à la personnalisation des solutions ERP.
+
+📋 Gestion & Management
+Je m'intéresse à la conduite de projet, à l’organisation d’équipes et à la gestion agile, notamment en lien avec les environnements tech.
+
+
+
 
 
 ## 🌐 Socials:
